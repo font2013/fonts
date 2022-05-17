@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'FuturaPTBook';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://cdn.jsdelivr.net/gh/font2013/fonts/FuturaPTBook.otf) format('otf');
+}
+
+
+@font-face {
+  font-family: 'FuturaPTExtraBold';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://cdn.jsdelivr.net/gh/font2013/fonts/FuturaPTExtraBold.otf) format('otf');
+}
+
+@font-face {
+  font-family: 'MayhenaInky';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://cdn.jsdelivr.net/gh/font2013/fonts/MayhenaInky.ttf) format('ttf');
+}
