@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'FuturaPTBook';
-  src: url(https://cdn.jsdelivr.net/gh/font2013/fonts/FuturaPTBook.otf) format('otf');
+  src: url(https://cdn.jsdelivr.net/gh/font2013/fonts/FuturaPTBook.otf) format('opentype');
 }
 
 
 @font-face {
   font-family: 'FuturaPTExtraBold';
-  src: url(https://cdn.jsdelivr.net/gh/font2013/fonts/FuturaPTExtraBold.otf) format('otf');
+  src: url(https://cdn.jsdelivr.net/gh/font2013/fonts/FuturaPTExtraBold.otf) format('opentype');
 }
 
 @font-face {
